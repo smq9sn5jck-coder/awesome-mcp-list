@@ -230,6 +230,8 @@ Note that this list is continuously updating and improving. Please star this rep
 -   **[seekrays/mcp-monitor](https://github.com/seekrays/mcp-monitor)** [![GitHub stars](https://img.shields.io/github/stars/seekrays/mcp-monitor?style=social)](https://github.com/seekrays/mcp-monitor): Provides system monitoring via MCP, exposing various metrics.
 -   **[hyperb1iss/lucidity-mcp](https://github.com/hyperb1iss/lucidity-mcp)** [![GitHub stars](https://img.shields.io/github/stars/hyperb1iss/lucidity-mcp?style=social)](https://github.com/hyperb1iss/lucidity-mcp): Provides intelligent, prompt-based analysis of AI-generated code across multiple dimensions.
 
+-   **[smq9sn5jck-coder/causallayer-mcp](https://github.com/smq9sn5jck-coder/causallayer-mcp)** [![GitHub stars](https://img.shields.io/github/stars/smq9sn5jck-coder/causallayer-mcp?style=social)](https://github.com/smq9sn5jck-coder/causallayer-mcp): Deterministic AI-liability attribution. Issues signed, Bitcoin-anchored CausalCertificateV1 receipts that compute vendor / deployer / user fault shares using closed-form math (no LLM in scoring path). Live demo: https://mcp.faultkey.com/mcp
+
 ### 🔎 Search
 
 -   **[modelcontextprotocol/server-brave-search](https://github.com/modelcontextprotocol/servers/tree/main/src/brave-search)** [![GitHub stars](https://img.shields.io/github/stars/modelcontextprotocol/servers?style=social)](https://github.com/modelcontextprotocol/servers): Performs web searches using Brave's Search API (part of the official servers collection).
